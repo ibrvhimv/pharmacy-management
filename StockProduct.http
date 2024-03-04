@@ -1,0 +1,105 @@
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{"prix": 17,
+  "name": "Diclofénac",
+  "quantity": 100
+}
+
+###
+GET http://localhost:8080/user
+
+###
+GET http://localhost:8080/user
+
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Canabis",
+  "prix": 20.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Doliprane",
+  "prix": 2.0,
+  "quantity": 10
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Ibuprofen",
+  "prix": 5.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Fervex",
+  "prix": 10.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Paracetamol",
+  "prix": 0.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Test Bebe",
+  "prix": 0.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Somniphere",
+  "prix": 7.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Acétaminophène",
+  "prix": 7.0,
+  "quantity": 3
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Aspirine",
+  "prix": 17.0,
+  "quantity": 100
+}
+###
+POST http://localhost:8080/stock/product
+Content-Type: application/json
+
+{
+  "name": "Diclofénac",
+  "prix": 17.0,
+  "quantity": 100
+}
